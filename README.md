@@ -6,7 +6,7 @@
 
 - 🔭 You can see the demo here [LIBRARY MANAGEMENT SYSTEM](https://drive.google.com/drive/folders/1R1v6BCQlF-krzNIexgrmXHkRYZpItAiJ?usp=sharing)
 
-- 📫 Mail - **kalpitgnagar@gmail.com**
+- 📫 Mail - **tanishqdinkar07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
